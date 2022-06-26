@@ -1,0 +1,2 @@
+FLASK_APP=shoppr.py
+FLASK_ENV=development
